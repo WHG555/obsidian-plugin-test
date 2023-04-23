@@ -18,8 +18,33 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "ad14760962da2f55",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "外部插件/QuickAdd/模板/QuickAdd模板.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "22324ff966fe5dca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "外部插件/QuickAdd/测试/QuickAdd测试.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -79,7 +104,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "README.md",
+                "file": "外部插件/QuickAdd/测试/QuickAdd测试.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -128,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "外部插件/QuickAdd/测试/QuickAdd测试.md"
               }
             }
           },
@@ -138,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "外部插件/QuickAdd/测试/QuickAdd测试.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "外部插件/QuickAdd/测试/QuickAdd测试.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,8 +210,31 @@
     "direction": "horizontal",
     "width": 267.5
   },
-  "active": "f584aaccc707c3cf",
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "workspaces:管理工作区布局": false
+    }
+  },
+  "active": "22324ff966fe5dca",
   "lastOpenFiles": [
+    "外部插件/QuickAdd/模板/QuickAdd模板.md",
+    "外部插件/QuickAdd/测试/QuickAdd测试.md",
+    "README.md",
+    "外部插件/QuickAdd/模板/QuickAdd模板",
+    "外部插件/QuickAdd/测试",
+    "外部插件/QuickAdd/模板",
+    "外部插件/QuickAdd",
+    "CSS",
+    "主题",
+    "外部插件",
+    "未命名.md",
+    "核心插件",
     "主页.md",
     "G2正在处理/模板/模板/脚本-查看文档属性.md",
     "G4归档资料/0基础/工具/软件库/开源许可声明列表.md",
