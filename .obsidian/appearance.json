@@ -1,0 +1,15 @@
+{
+  "baseFontSize": 19,
+  "theme": "moonstone",
+  "cssTheme": "",
+  "enabledCssSnippets": [
+    "S - External Link Icons",
+    "Borber - Day",
+    "setfont",
+    "fullwidth",
+    "keep",
+    "表格更改"
+  ],
+  "translucency": false,
+  "accentColor": ""
+}

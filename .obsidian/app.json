@@ -1,0 +1,29 @@
+{
+  "readableLineLength": false,
+  "showLineNumber": true,
+  "trashOption": "local",
+  "newFileLocation": "current",
+  "newLinkFormat": "relative",
+  "attachmentFolderPath": "W0资源",
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "strictLineBreaks": false,
+  "showUnsupportedFiles": true,
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "fileSortOrder": "alphabetical",
+  "showFrontmatter": false,
+  "foldHeading": true,
+  "foldIndent": true,
+  "lineWrap": true,
+  "communityPluginSortOrder": "downloadReverse",
+  "legacyEditor": false,
+  "livePreview": false,
+  "userIgnoreFilters": [
+    "W0资源/"
+  ]
+}

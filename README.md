@@ -1,2 +1,2 @@
-# obsidian-plugin-test
-obsidian的插件功能测试
+# obsidian-test
+obsidian的各种功能测试

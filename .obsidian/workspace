@@ -1,0 +1,258 @@
+{
+  "main": {
+    "id": "12fcc534bb977f8c",
+    "type": "split",
+    "children": [
+      {
+        "id": "f584aaccc707c3cf",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "主页.md",
+            "mode": "source",
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a8ad9d1610e2c99d",
+    "type": "split",
+    "children": [
+      {
+        "id": "df45ce28ee79f817",
+        "type": "tabs",
+        "dimension": 51.60965794768612,
+        "children": [
+          {
+            "id": "3edc32835820f43f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "11b264e03c87ba27",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "file:任务",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d241c557fec868d9",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "f4d5805a861c8677",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "11d5694588ce422e",
+        "type": "tabs",
+        "dimension": 48.39034205231388,
+        "children": [
+          {
+            "id": "41374737999a6184",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "主页.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 3,
+                  "localBacklinks": false,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": true,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": false,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": false,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.508761885579263,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 316
+  },
+  "right": {
+    "id": "e270f266fe816d4b",
+    "type": "split",
+    "children": [
+      {
+        "id": "5fa8b95f8ea22ecb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "55b36c21aab746c1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "主页.md"
+              }
+            }
+          },
+          {
+            "id": "13093357776b043d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "主页.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "93404453494c079a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "主页.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f6d0cc8f74ce96ff",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "9bc58efebaa88c35",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "42f00425882721c8",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {}
+            }
+          },
+          {
+            "id": "fd3f88f6f0c30c78",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {}
+            }
+          },
+          {
+            "id": "17023907b07b66b6",
+            "type": "leaf",
+            "state": {
+              "type": "BC-matrix",
+              "state": {}
+            }
+          },
+          {
+            "id": "34775af9d96ea646",
+            "type": "leaf",
+            "state": {
+              "type": "BC-tree",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "311fb571af9d0454",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab369d32e3bc9140",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "342d7fbd8136ad2f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 544,
+    "collapsed": true
+  },
+  "active": "f584aaccc707c3cf",
+  "lastOpenFiles": [
+    "主页.md",
+    "G2正在处理/模板/模板/脚本-查看文档属性.md",
+    "G4归档资料/0基础/工具/软件库/开源许可声明列表.md",
+    "G2正在处理/计划/基础/dataview 建立任务查看脚本.md",
+    "G4归档资料/1学习/知识储存/任务.md",
+    "G5专题研究/任务管理.md",
+    "G4归档资料/1学习/能力学习/思想库/B80-4.1_概念_211116001839.md",
+    "G5专题研究/技能.md",
+    "G2正在处理/自画像/技能树.md",
+    "G4归档资料/2生活/我的D盘/人脉/C912-1.1_自己_211016112340.md"
+  ]
+}
