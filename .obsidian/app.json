@@ -16,7 +16,7 @@
     "downscalePercent": 100
   },
   "fileSortOrder": "alphabetical",
-  "showFrontmatter": false,
+  "showFrontmatter": true,
   "foldHeading": true,
   "foldIndent": true,
   "lineWrap": true,

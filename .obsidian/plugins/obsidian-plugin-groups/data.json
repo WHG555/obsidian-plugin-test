@@ -1,0 +1,55 @@
+{
+  "groups": [
+    {
+      "loadAtStartup": false,
+      "disableOnStartup": false,
+      "delay": 2,
+      "id": "pgquickadd",
+      "name": "QuickAdd",
+      "plugins": [
+        {
+          "id": "quickadd",
+          "name": "QuickAdd"
+        }
+      ],
+      "groupIds": [],
+      "generateCommands": true
+    },
+    {
+      "loadAtStartup": true,
+      "disableOnStartup": false,
+      "delay": 2,
+      "id": "pgreset",
+      "name": "初始化环境",
+      "plugins": [
+        {
+          "id": "buttons",
+          "name": "Buttons"
+        }
+      ],
+      "groupIds": [],
+      "generateCommands": true
+    },
+    {
+      "loadAtStartup": false,
+      "disableOnStartup": false,
+      "delay": 2,
+      "id": "pgmindmapnextgen",
+      "name": "MindmapNextgen",
+      "plugins": [
+        {
+          "id": "obsidian-mindmap-nextgen",
+          "name": "Mindmap NextGen"
+        }
+      ],
+      "groupIds": [],
+      "generateCommands": true
+    }
+  ],
+  "generateCommands": true,
+  "showNoticeOnGroupLoad": "normal",
+  "devLogs": true,
+  "devices": [],
+  "doLoadSynchronously": true,
+  "showStatusbarIcon": "Text"
+}

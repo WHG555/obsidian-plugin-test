@@ -42,9 +42,45 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "e70b1f5ddbbe3541",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "外部插件/mindmap-nextgen/基础样式测试.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "bbd656fcd9194b70",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "主页.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "b4ac9ea3b72a24e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "外部插件/buttons/按钮样式.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -104,7 +140,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "外部插件/QuickAdd/测试/QuickAdd测试.md",
+                "file": "外部插件/mindmap-nextgen/基础样式测试.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -137,7 +173,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 209.5
+    "width": 234.5
   },
   "right": {
     "id": "e270f266fe816d4b",
@@ -153,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "外部插件/QuickAdd/测试/QuickAdd测试.md"
+                "file": "外部插件/mindmap-nextgen/基础样式测试.md"
               }
             }
           },
@@ -163,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "外部插件/QuickAdd/测试/QuickAdd测试.md",
+                "file": "外部插件/mindmap-nextgen/基础样式测试.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -175,7 +211,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "外部插件/QuickAdd/测试/QuickAdd测试.md",
+                "file": "外部插件/mindmap-nextgen/基础样式测试.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +244,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -221,10 +257,18 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "22324ff966fe5dca",
+  "active": "e70b1f5ddbbe3541",
   "lastOpenFiles": [
-    "外部插件/QuickAdd/模板/QuickAdd模板.md",
+    "主页.md",
+    "外部插件/mindmap-nextgen/基础样式测试.md",
+    "外部插件/mindmap-nextgen/宽度测试.md",
+    "外部插件/mindmap-nextgen/0-配置环境.md",
+    "外部插件/buttons/按钮样式.md",
     "外部插件/QuickAdd/测试/QuickAdd测试.md",
+    "外部插件/QuickAdd/模板/QuickAdd模板.md",
+    "外部插件/QuickAdd/配置环境.md",
+    "外部插件/buttons",
+    "外部插件/mindmap-nextgen",
     "README.md",
     "外部插件/QuickAdd/模板/QuickAdd模板",
     "外部插件/QuickAdd/测试",
@@ -233,9 +277,7 @@
     "CSS",
     "主题",
     "外部插件",
-    "未命名.md",
     "核心插件",
-    "主页.md",
     "G2正在处理/模板/模板/脚本-查看文档属性.md",
     "G4归档资料/0基础/工具/软件库/开源许可声明列表.md",
     "G2正在处理/计划/基础/dataview 建立任务查看脚本.md",
